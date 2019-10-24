@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Assignment Tracking System</string>
+
+    <string-array name="list">
+        <item>"About Faculty"</item>
+        <item>"Assignment Deadline"</item>
+        <item>"Subjects"</item>
+        <item>"Upload or Download Assignments"</item>
+        <item>"Track Assignment"</item>
+        <item>"Updates for Assignments"</item>
+        <item>"Feedback"</item>
+
+    </string-array>
+
+</resources>
